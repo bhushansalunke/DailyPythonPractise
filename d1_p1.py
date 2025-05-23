@@ -1,3 +1,5 @@
-def my_function(hello):
+def myfunction():
     print("Hello World!")
-    return hello
+
+# Call the function
+myfunction()
